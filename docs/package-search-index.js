@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"CashierGUI"},{"l":"ManagerGUI"},{"l":"New_Additions"}];updateSearchResults();
